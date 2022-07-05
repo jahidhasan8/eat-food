@@ -1,0 +1,56 @@
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+.top-banner {
+    display: flex;
+}
+
+.half-width {
+    width: 50%;
+    margin-bottom: 40px;
+    margin-top: 10%;
+    padding: 20px;
+
+}
+
+.eat {
+    color: coral;
+}
+
+h1 {
+    font-size: 65px;
+}
+
+.link {
+    text-decoration: none;
+    background-image: linear-gradient(purple, gray);
+    border-radius: 5px;
+    padding: 15px 30px;
+    color: white;
+    font-weight: 700;
+
+
+}
+
+.top-right-banner {
+    background-image: url(shapes/Group\ 8450.png);
+    background-repeat: no-repeat;
+    width: 45%;
+    background-size: contain;
+    background-position: right;
+
+
+}
+
+.half-width img {
+    width: 110%;
+    position: relative;
+    right: 80px;
+    bottom: 30px;
+
+
+
+
+
+}
